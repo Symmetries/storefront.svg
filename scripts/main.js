@@ -1,4 +1,5 @@
 import {html, svg, render} from '//unpkg.com/lit-html@2.2.6/lit-html.js?module';
+
 import {createSvgContainer} from './svg-container.js'
 import {createCustomizationContainer} from './customization-container.js';
 import {SVG} from 'https://cdnjs.cloudflare.com/ajax/libs/svg.js/3.1.2/svg.esm.js'
@@ -31,7 +32,7 @@ let data = [
   {
     name: "frontdecor",
     title: "Front Decor",
-    amount: 2,
+    amount: 5,
     mode: "multi",
   }
 ]
