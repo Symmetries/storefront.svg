@@ -1,0 +1,46 @@
+<svg width="180" height="23" viewBox="0 0 180 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_58_2771" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="180" height="19">
+<rect width="180" height="19" fill="#FFE99B"/>
+</mask>
+<g mask="url(#mask0_58_2771)">
+<rect y="13" width="28" height="5" fill="#B49D72"/>
+<rect x="14" y="6" width="28" height="5" fill="#B49D72"/>
+<rect x="28" y="-1" width="28" height="5" fill="#B49D72"/>
+<rect x="-2" y="-1" width="28" height="5" fill="#B49D72"/>
+<rect x="-16" y="6" width="28" height="5" fill="#B49D72"/>
+<rect x="30" y="13" width="28" height="5" fill="#CB9F6C"/>
+<rect x="44" y="6" width="28" height="5" fill="#CB9F6C"/>
+<rect x="58" y="-1" width="28" height="5" fill="#CB9F6C"/>
+<rect x="60" y="13" width="28" height="5" fill="#B49D72"/>
+<rect x="74" y="6" width="28" height="5" fill="#B49D72"/>
+<rect x="88" y="-1" width="28" height="5" fill="#B49D72"/>
+<rect x="90" y="13" width="28" height="5" fill="#B49D72"/>
+<rect x="104" y="6" width="28" height="5" fill="#B49D72"/>
+<rect x="118" y="-1" width="28" height="5" fill="#B49D72"/>
+<rect x="120" y="13" width="28" height="5" fill="#CB9F6C"/>
+<rect x="134" y="6" width="28" height="5" fill="#CB9F6C"/>
+<rect x="148" y="-1" width="28" height="5" fill="#CB9F6C"/>
+<rect x="150" y="13" width="28" height="5" fill="#B49D72"/>
+<rect x="164" y="6" width="28" height="5" fill="#B49D72"/>
+<rect x="178" y="-1" width="28" height="5" fill="#B49D72"/>
+</g>
+<circle cx="4" cy="19" r="4" fill="#515153"/>
+<circle cx="25" cy="19" r="4" fill="#515153"/>
+<circle cx="87" cy="19" r="4" fill="#515153"/>
+<circle cx="149" cy="19" r="4" fill="#515153"/>
+<circle cx="46" cy="19" r="4" fill="#515153"/>
+<circle cx="108" cy="19" r="4" fill="#515153"/>
+<circle cx="170" cy="19" r="4" fill="#515153"/>
+<circle cx="66" cy="19" r="4" fill="#515153"/>
+<circle cx="128" cy="19" r="4" fill="#515153"/>
+<path d="M4 15L11.7528 17.2151C13.5483 17.7281 15.4517 17.7281 17.2472 17.2151L25 15L21 19H8L4 15Z" fill="#515153"/>
+<path d="M66 15L73.7528 17.2151C75.5483 17.7281 77.4517 17.7281 79.2472 17.2151L87 15L83 19H70L66 15Z" fill="#515153"/>
+<path d="M128 15L135.753 17.2151C137.548 17.7281 139.452 17.7281 141.247 17.2151L149 15L145 19H132L128 15Z" fill="#515153"/>
+<path d="M25 15L32.7528 17.2151C34.5483 17.7281 36.4517 17.7281 38.2472 17.2151L46 15L42 19H29L25 15Z" fill="#515153"/>
+<path d="M87 15L94.7528 17.2151C96.5483 17.7281 98.4517 17.7281 100.247 17.2151L108 15L104 19H91L87 15Z" fill="#515153"/>
+<path d="M149 15L156.753 17.2151C158.548 17.7281 160.452 17.7281 162.247 17.2151L170 15L166 19H153L149 15Z" fill="#515153"/>
+<path d="M46 15L53.7528 17.2151C55.5483 17.7281 57.4517 17.7281 59.2472 17.2151L67 15L63 19H50L46 15Z" fill="#515153"/>
+<path d="M108 15L115.753 17.2151C117.548 17.7281 119.452 17.7281 121.247 17.2151L129 15L125 19H112L108 15Z" fill="#515153"/>
+<path d="M170 15C172.792 15.8377 174.708 16.4123 177 17.1C177 18 177 18.5 177 19H174L170 15Z" fill="#515153"/>
+<rect y="19" width="180" height="2" fill="#515153"/>
+</svg>
