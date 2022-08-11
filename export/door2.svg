@@ -1,0 +1,34 @@
+<svg width="90" height="250" viewBox="0 0 90 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-1-inside-1_215_5057" fill="white">
+<path d="M18 124C18 122.895 18.8954 122 20 122H70C71.1046 122 72 122.895 72 124V220H18V124Z"/>
+</mask>
+<path d="M18 124C18 122.895 18.8954 122 20 122H70C71.1046 122 72 122.895 72 124V220H18V124Z" fill="#F0F8FF"/>
+<path d="M13 124C13 120.686 15.6863 118 19 118H71C74.3137 118 77 120.686 77 124L67 126H23L13 124ZM72 220H18H72ZM13 220V124C13 120.686 15.6863 118 19 118L23 126V220H13ZM71 118C74.3137 118 77 120.686 77 124V220H67V126L71 118Z" fill="#808080" mask="url(#path-1-inside-1_215_5057)"/>
+<g filter="url(#filter0_b_215_5057)">
+<path d="M23 126H67V150H23V126Z" fill="#0054A0" fill-opacity="0.2"/>
+</g>
+<rect x="23" y="152" width="44" height="68" fill="#808080"/>
+<mask id="mask0_215_5057" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="18" y="122" width="54" height="98">
+<path d="M18 124C18 122.895 18.8954 122 20 122H70C71.1046 122 72 122.895 72 124V220H18V124Z" fill="#F0F8FF"/>
+</mask>
+<g mask="url(#mask0_215_5057)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M21 136H5V152H21H37H53H69H85H101V136H85H69H53H37H21ZM19 138H7V150H19V138ZM35 138H23V150H35V138ZM39 138H51V150H39V138ZM67 138H55V150H67V138ZM71 138H83V150H71V138ZM99 138H87V150H99V138Z" fill="#808080"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M21 122H5V138H21H37H53H69H85H101V122H85H69H53H37H21ZM19 124H7V136H19V124ZM35 124H23V136H35V124ZM39 124H51V136H39V124ZM67 124H55V136H67V124ZM71 124H83V136H71V124ZM99 124H87V136H99V124Z" fill="#808080"/>
+</g>
+<mask id="path-8-inside-2_215_5057" fill="white">
+<rect x="23" y="159" width="44" height="25" rx="2"/>
+</mask>
+<rect x="23" y="159" width="44" height="25" rx="2" fill="#808080" stroke="#B0B0B0" stroke-width="8" stroke-linejoin="round" mask="url(#path-8-inside-2_215_5057)"/>
+<mask id="path-9-inside-3_215_5057" fill="white">
+<rect x="23" y="189" width="44" height="25" rx="2"/>
+</mask>
+<rect x="23" y="189" width="44" height="25" rx="2" fill="#808080" stroke="#B0B0B0" stroke-width="8" stroke-linejoin="round" mask="url(#path-9-inside-3_215_5057)"/>
+<defs>
+<filter id="filter0_b_215_5057" x="19" y="122" width="52" height="32" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImage" stdDeviation="2"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_215_5057"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_215_5057" result="shape"/>
+</filter>
+</defs>
+</svg>
